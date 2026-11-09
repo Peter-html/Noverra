@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Nexus",
+    "slug": "novera-mobile",
+    "scheme": "novera",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#05070B",
+    "splash": {
+      "image": "./assets/nexus-hero-dark.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#05070B"
+    },
+    "icon": "./assets/nexus-emblem.png",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.novera.facilities",
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
